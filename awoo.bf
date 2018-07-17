@@ -1,4 +1,5 @@
 [
+  Print 'awoo' in brainfuck
   a: 97
   w: 119
   o: 111
